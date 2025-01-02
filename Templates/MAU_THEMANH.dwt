@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+<link title="THEMANH/css" href="../THEMANH/THEMANH.css" rel="stylesheet" />
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio của tôi</title>
+</head>
+<body>
+<header>
+  <h1>💪THẾ MẠNH💪 </h1
+  <p>Web Developer | Designer | Freelancer</p>
+</header>
+<!-- TemplateBeginEditable name="MAU_THEMANH" -->
+<div class="menu">
+  <nav>
+    <ul style="font-size: 25px">
+      <li><a href="../BAIGOC/GOC.html"><img src="../ANH/pngegg (1).png" width="38px"></a></li>
+      <li><a href="#GIOITHIEU">🔒Giới thiệu</a></li>
+      <li><a href="#DUAN">🔒Dự án</a></li>
+      <li><a href="#LIENHE">🔒Liên hệ</a></li>
+      <li><a class="tm" href="#THEMANH">🔓Thế mạnh</a></li>
+    </ul>
+  </nav>
+</div>
+<div class="baoham">
+  <div class="n1"> <img src="../ANH/DK.jpg" class="ANHPL">
+    <p>✌ĐOÀN KÉT &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;SÁNG TẠO 💡&nbsp;<br>
+      <br>
+      <br>
+      <br>
+      ✌TINH THẦN ĐỒNG ĐỘI &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NHIỀU Ý TƯỞNG 💡<br>
+      <br>
+      <br>
+      <br>
+      ✌HÒA HỢP &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CÁCH THỨC MỚI 💡 </p>
+    <img src="../ANH/st.jpg" class="ANHPL"></div>
+  <div class="n2">
+    <p>~THẾ MẠNH PHẢI CÓ CHO MÌNH~<br>
+      -----------------CỐ GẮNG-----------------<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ---- 22/12/2024 ----<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;---- $ ----</p>
+    <img src="../ANH/14-59-28-221_512.gif" class="ANHPL1"></div>
+</div>
+<!-- TemplateEndEditable -->
+<div class="footer">
+  <p>&copy; Phạm Hoàng Tiền. SĐT: 0792280175</p>
+</div>
+</body>
+</html>
+
+
+
+

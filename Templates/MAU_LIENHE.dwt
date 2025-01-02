@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+<link title="LIENHE/css" href="../LIENHE/LIENHE.css" rel="stylesheet" />
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio của tôi</title>
+</head>
+<body>
+<header>
+  <h1>LIÊN HỆ🖊</h1>
+  <p>Web Developer | Designer | Freelancer</p>
+</header>
+<!-- TemplateBeginEditable name="MAU_LIENHE" -->
+<div class="menu">
+  <nav>
+    <ul style="font-size: 25px">
+      <li><a href="../BAIGOC/GOC.html"><img src="../ANH/pngegg (1).png" width="38px"></a></li>
+      <li><a href="#GIOITHIEU">🔒Giới thiệu</a></li>
+      <li><a href="#DUAN">🔒Dự án</a></li>
+      <li><a class="lh" href="#LIENHE">🔓Liên hệ</a></li>
+      <li><a href="#THEMANH">🔒Thế mạnh</a></li>
+    </ul>
+  </nav>
+</div>
+<div class="baoham">
+  <div class="n1">
+    <div class="ANHPL"> <img src="../ANH/anhcuatoi.jpg"></div>
+  </div>
+  <div class="n2">
+    <div id="GTHIEU">
+      <h2>- Thông tin liên hệ -</h2>
+      <p> 🔎Facebook: Hoàng Tiền</p>
+      <p> 🔎Zalo: 0792280175.Hoang Tien</p>
+      <p> 🔎Địa chỉ: số 12 đường Võ Thị Sáu - Bà Rịa</p>
+      <p> 🔎Gmail: PHT11205@gmail.com</p>
+      <p> 🔎Cách thức liên hệ: gọi số hoặc nhắn tin trực tiếp trang chủ</p>
+      <img src="../ANH/16-21-18-411_512.webp">
+      <h2>------- Xin cảm ơn -------</h2>
+    </div>
+  </div>
+</div>
+<!-- TemplateEndEditable -->
+<div class="footer">
+  <p>&copy; Phạm Hoàng Tiền. SĐT: 0792280175</p>
+</div>
+</body>
+</html>
+
+

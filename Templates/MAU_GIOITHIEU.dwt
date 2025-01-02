@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+<link title="GIOITHIEU/css" href="../GIOITHIEU/GIOITHIEU.css" rel="stylesheet" />
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio của tôi</title>
+</head>
+<body>
+<header>
+  <h1>🔶Giới Thiệu🔶</h1>
+  <p>Web Developer | Designer | Freelancer</p>
+</header>
+<!-- TemplateBeginEditable name="MAU_GIOITHIEU" -->
+<div class="menu">
+  <nav>
+    <ul style="font-size: 25px">
+      <li><a href="../BAIGOC/GOC.html"><img src="../ANH/pngegg (1).png" width="38px"></a></li>
+      <li><a class="gt" href="#GIOITHIEU">🔓Giới thiệu</a></li>
+      <li><a href="#DUAN">🔒Dự án</a></li>
+      <li><a href="#LIENHE">🔒Liên hệ</a></li>
+      <li><a href="#THEMANH">🔒Thế mạnh</a></li>
+    </ul>
+  </nav>
+</div>
+<div class="baoham">
+  <div class="n1">
+    <div class="ANHPL"> <img src="../ANH/anhcuatoi.jpg"></div>
+  </div>
+  <div class="n2">
+    <div id="GTHIEU">
+      <h2>🔥Giới thiệu sơ lược🔥</h2>
+      <p>- Xin chào! mình là Phạm Hoàng Tiền, mình đang theo học tại trường Cao Đẳng Kĩ thuật Công Nghệ Bà Rịa - Vũng Tàu.</p>
+      <p>- Lớp: CD23CNTT2.</p>
+      <p>- Theo tìm hiểu thì mình biết thời đại công nghệ đang tiếp tục phát triển, cập nhật từng ngày, nên mình thấy theo học ngành IT là 1 quyết định đúng đắn cho tương lai của bản thân.</p>
+      <img src="../ANH/bailes.gif"> <img src="../ANH/bailes.gif"> <img src="../ANH/bailes.gif"> <img src="../ANH/bailes.gif"> <img src="../ANH/bailes.gif"></div>
+  </div>
+</div>
+<!-- TemplateEndEditable -->
+<div class="footer">
+  <p>&copy; Phạm Hoàng Tiền. SĐT: 0792280175</p>
+</div>
+</body>
+</html>
+
+

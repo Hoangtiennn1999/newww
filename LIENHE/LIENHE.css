@@ -1,0 +1,100 @@
+/* CSS Document */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+header h1{color:aqua;
+font-size: 60px;
+ transition: transform 0.3s ease;}
+header h1:hover{transform: translateY(-10px);}
+header {
+    background: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    background: #444;
+    overflow: hidden;
+    color: #fff;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+    padding: 10px 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+.lh {color : aqua}
+.menu nav ul li a:hover {
+            background-color: #c2c2c2;
+            color:aqua;
+        }
+.footer {
+    background: #333;
+    color: #fff;
+    padding: 10px 0;
+    margin-top: 20px;
+}
+.footer p{
+		font-size: 25px;
+		display: inline-block;
+		padding-left: 535px;
+	 	margin-bottom: 5px;
+}
+.baoham{
+	width: 1200px;
+	height: 700px;
+}
+.n1 {
+	float: left;
+	width: 600px;
+	height: 700px;
+}
+.n2 {
+	float: right;
+	width: 600px;
+	height: 700px;
+}
+#GTHIEU{ 
+	font-size: 30px;
+	width: 700px;
+	padding-top: 100px;
+	padding-left: 100px;}
+.ANHPL img{
+	border-radius: 10px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+	float: left;
+	border: solid black 5px;
+	margin-right: 800px;
+	padding: 10px 0;
+	width: 600px;
+	height: 700px;
+}
+.ANHPL img:hover{transform: translateY(-10px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); }
+#GTHIEU h2{ transition: transform 0.3s ease;}
+#GTHIEU h2:hover{transform: translateY(-10px);}
+#GTHIEU img{margin-left:150px;}
+#GTHIEU img{border-radius: 10px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;}
+#GTHIEU img:hover{transform: translateY(-10px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); }
+
+
+
+
